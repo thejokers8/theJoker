@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/theJokerCompany/static/css/main.7b75c81a.css",
+    "main.js": "/theJokerCompany/static/js/main.45e51cdd.js",
+    "index.html": "/theJokerCompany/index.html",
+    "main.7b75c81a.css.map": "/theJokerCompany/static/css/main.7b75c81a.css.map",
+    "main.45e51cdd.js.map": "/theJokerCompany/static/js/main.45e51cdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b75c81a.css",
+    "static/js/main.45e51cdd.js"
+  ]
+}
